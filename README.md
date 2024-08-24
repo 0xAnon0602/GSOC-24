@@ -39,6 +39,7 @@ The complete code I developed for this project is available in the [`gsoc24`](ht
 ## Pull Requests
 
 - [Integration of gsoc24 branch to dev branch](https://github.com/InternetHealthReport/ihr-website/pull/825)
+- [Other PRs](https://github.com/InternetHealthReport/ihr-website/commits/gsoc24/?author=0xAnon0602&since=2024-06-01&until=2024-08-31)
 
 ## Libraries Used
 
